@@ -1,0 +1,37 @@
+html{
+	height: 100%;
+}
+
+body{
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+#mainrow{
+	width: 1261px;
+	height: 100%;
+}
+#sidebar{
+	background-color: #ccc;
+	height:100%;
+}
+#contentarea{
+	padding-left:10px;
+	padding-right: 0px;
+}
+
+#submitNote{
+	position: relative; 
+	top: 5px;
+	right: 0px;
+}
+#saveNote{
+	position: relative; 
+	top: 5px;
+	right: 0px;
+}
+#deleteNote{
+	position: relative; 
+	top: 5px;
+	right: 0px;
+}
